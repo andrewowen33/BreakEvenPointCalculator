@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BreakEvenPointCalculator/static/css/main.596b189b.css",
+    "main.js": "/BreakEvenPointCalculator/static/js/main.2bbf07f3.js",
+    "static/js/453.f822963d.chunk.js": "/BreakEvenPointCalculator/static/js/453.f822963d.chunk.js",
+    "index.html": "/BreakEvenPointCalculator/index.html",
+    "main.596b189b.css.map": "/BreakEvenPointCalculator/static/css/main.596b189b.css.map",
+    "main.2bbf07f3.js.map": "/BreakEvenPointCalculator/static/js/main.2bbf07f3.js.map",
+    "453.f822963d.chunk.js.map": "/BreakEvenPointCalculator/static/js/453.f822963d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596b189b.css",
+    "static/js/main.2bbf07f3.js"
+  ]
+}
